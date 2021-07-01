@@ -1,0 +1,16 @@
+
+
+primitive type
+type <- data type
+boolean
+char
+byte short int long
+float double
+ 
+
+int(4byte) <- 8bit = 1byte
+ = 32 bit 
+ 
+ so that data type에서 크기와 모양, 
+부호 비트, sign bit  = 1이면 음수 0이면 양수
+[1/0][][][][][][][...][][][][][]
