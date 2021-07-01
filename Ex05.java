@@ -28,6 +28,11 @@ public class Ex05 {
 		ch = (char) (ch + 32);
 		System.out.println(ch);
 
+		
+		ch = (char) (ch + 'a'-'A');
+		System.out.println("ch" + ch);		
+		
+		
 		// ch를 대문자에서 소문자로
 		// 대문자 G = 71, +32(=소문자로 변환하는 규칙) = 103
 		// 결과는 int인데 char에 넣어서 형변환. => 소문자 g가 됨.
